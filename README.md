@@ -1,3 +1,3 @@
-## Angular/Node 2022 Ontexsoft ДЗ №1
+## Angular/Node 2022 Intexsoft ДЗ №1
 Верстка сайта **"Блог Гродно s13 - Новости Гродно"**
-Сайт: [s13.ru](https://s13.ru/)
+сайт: [s13.ru](https://s13.ru/)
